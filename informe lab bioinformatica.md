@@ -5,6 +5,7 @@
 ### parte 1: Enfermedades genéticas y genes  ###
 
 #### Huntington Disease ####
+
 La enfermedad de Huntintgton (HD) es una enfermedad hereditaria que causa la descomposición progresiva de las celulas nerviosas del cerebro. las personas nacen con el gen defectuoso, pero los síntomas no aparecen hasta la edad madura. Este trastorno genético neurodegenerativo es fatal, afecta la coordinación muscular, conduce al deterioro cognitivo y fisico. Los primeros signos y síntomas pueden incluir movimientos involuntarios, depresión, mala coordinación, problemas para aprender informacón nueva entre otros que van aumentando gradualmente a medida que avanza la enfermedad.
 
 **¿Que gen ha sido relacionado con esta enfermedad?**
@@ -42,14 +43,15 @@ No se encuentran nombres alternativos diferentes a los descritos en la base de d
 
 **¿En qué rutas metabólicas participa la proteína codificada por tu gen?**
 
-![](http://github.com/bvaras1294/lab-bioinf-/blob/master/ruta%20metabolica.png)
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/ruta%20metabolica.png?raw=true)
 
 **¿Cuál es el número de identificación de tu gen (entry number)?**
 3064
 
 **En qué otras rutas metabólicas está involucrado tu gen?**
 
-![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/ruta%20htt.png)
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/ruta%20htt.png?raw=true)
+
 
 **¿Qué significan los cuadros verdes en el diagrama?**
 Indica la presencia de genes en el genoma y la integridad de la ruta.
@@ -112,6 +114,8 @@ AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACCCTTTGTTGGAGCCCCTGCTC
 TTCACCACCGCTCAGTTCTGCATCCTGCAGTGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCT
 CCAATTTCTTCCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTGTACCACCTTA
 CATCAATAAAAGTGTTCACCATCTGAAG
+
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/fasta.png?raw=true)
 
 **Uno de los formatos más usados es el FASTA, sin embargo en filogenética uno súper popular y requerido por muchos programas es el formato NEXUS.**
  #NEXUS
@@ -179,22 +183,24 @@ end;
 begin assumptions;
 options deftype=unord;
 end;
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/nexus.png?raw=true)
 
 ### Parte 4: Buscando artículos científicos en linea ###
 
 **Crea una cuenta gratuita en NCBI y Google Scholar.Escoge un área de investigación, e.g., bacterial genomics, human genetics, etc.Ahora crea una alerta de búsqueda en NCBI PubMed.**
 
-![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/alerta%20ncbi.png)
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/alerta%20ncbi.png?raw=true)
 
 **Ahora vamos a la página de la revista Nature Genetics. El obejtivo es configurar una tabla de contenidos electrónica, i.e., que cada vez que la revista publique un número nuevo te llegue la tabla de contenidos de ese número a tu correo electrónico. Puedes encontrar el vínculo en la esquina superior derecha, E-alert.**
 
-![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/registro%20nature.png)
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/registro%20nature.png?raw=true)
+
 
 operadores de búsqueda en Google Scholar.
 ** busca Human Microbiome, Ahora usa comillas para realizar tu búsqueda "Human Microbiome"**
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/human%20micr.png?raw=true)
 
-![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/human%20micr.png)
-![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/human%20comillas.png)
+![](http://https://github.com/bvaras1294/lab-bioinf-/blob/master/human%20comillas.png?raw=true)
 
 **¿Son los resultados idénticos o no?**
 Con ambas busquedas se obtienen los mismos resultados 
